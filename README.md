@@ -14,3 +14,20 @@ So you need
 
 
 
+
+► List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon  
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about
+
