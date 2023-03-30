@@ -1,4 +1,4 @@
-# Video #264: Dot Matrix LED World Clock and Messaging
+# Video #264: Matrix LED World Clock and Messaging (installation)
 Display the day, date and three different time zones, plus a web-based reminder system!  
 
 ![Thumbnail-00020 (Phone)](https://user-images.githubusercontent.com/20911308/228219076-c1596a90-9dd2-42cd-8268-100c598bfb88.png)  
