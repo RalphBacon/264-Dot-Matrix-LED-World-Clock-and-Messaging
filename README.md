@@ -12,7 +12,7 @@ Display the day, date and three different time zones, plus a web-based reminder 
 So you need an excuse to play with a strip of LED dot matrix? 
 
 ### See also: https://github.com/RalphBacon/256-MAX7219-Ultimate-Display,  
-where we iniitally discussed this project, the libraries, the power supply requirements and so on.
+where we initially discussed this project, the libraries, the power supply requirements and so on.
 
 How about a clock that tells you the day of the week, the rough time of day, the date as well as three time zones (can be any in the world)? Not only that, but the ability to display (up to) five messages - that I use as urgent reminders, setting them from within the house so I see them as soon as I walk into my workshop.
 
