@@ -18,6 +18,9 @@ How about a clock that tells you the day of the week, the rough time of day, the
 
 It's a simple enough project but fun to make (and you don't actually need a full 0.9m length \[28 modules\] to make this work!).
 
+► Want to get a further PCB discount from PCBWay? Follow this link:  
+https://pcbway.com/g/SaH9tF  
+
 ### Hardware
 ► Cut to size acrylic (UK):  
 https://bit.ly/PerspexSheetCutToSizeUK  
